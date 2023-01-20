@@ -60,13 +60,13 @@
         /*----- end of carousel content stylings ----- */
   
         /* ----- slideshow stylings ----- */
-        .slideshow {
+        .slideshow1 {
             height: 100%;
             overflow: hidden; /* to hide slides in x-direction */
             position: relative;
         }
         /* wrapper which wraps all the slideshow images stylings */
-        .slideshow-wrapper {
+        .slideshow1-wrapper {
             display: flex;
             /* We give it width as 400% because we are making a 
                4 image carousel. If you want to make for example, 
@@ -283,13 +283,13 @@
         /*----- end of carousel content stylings ----- */
   
         /* ----- slideshow stylings ----- */
-        .slideshow {
+        .slideshow2 {
             height: 100%;
             overflow: hidden; /* to hide slides in x-direction */
             position: relative;
         }
         /* wrapper which wraps all the slideshow images stylings */
-        .slideshow-wrapper {
+        .slideshow2-wrapper {
             display: flex;
             /* We give it width as 400% because we are making a 
                4 image carousel. If you want to make for example, 
