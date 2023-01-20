@@ -204,30 +204,13 @@
             </div>
         </div>
     </div>
-    
-    
-      /* ----- container stylings: 
-        -> centers the whole content of the page
-        -> defines width and height for container ----- */
-        .container {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            margin: auto;
-            width: 400px;
-            height: 215px;
-        }
-        /* ----- end of container stylings ----- */
-  
-        /* provides padding to main heading */
-        .main-heading {
-            padding: 2rem 0 2rem 0;
-        }
-  
-        .content {
-            position: relative;
-        }
+    <!-- 20px spacer start -->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td height="20" style="height:20px; font-size:1px; line-height:1px;">&nbsp;</td>
+				</tr>
+			</table>
+			<!-- 20px spacer end -->
   
     </style>
     <title></title>
