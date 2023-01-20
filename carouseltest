@@ -28,7 +28,7 @@
             align-items: center;
             margin: auto;
             width: 400px;
-            height: 215px;
+            height: 317px;
         }
         /* ----- end of container stylings ----- */
   
@@ -238,7 +238,7 @@
             align-items: center;
             margin: auto;
             width: 400px;
-            height: 317px;
+            height: 215px;
         }
         /* ----- end of container stylings ----- */
   
