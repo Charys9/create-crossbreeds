@@ -351,34 +351,34 @@
         the buttons places one over the other. 
         So, we have to place them individually
         at their correct positions. */
-        .slide-btn-1 {
+        .slide-btn-1a {
             left: 45%;
         }
-        .slide-btn-2 {
+        .slide-btn-2a {
             left: 50%;
         }
-        .slide-btn-3 {
+        .slide-btn-3a {
             left: 55%;
         }
-        .slide-btn-4 {
+        .slide-btn-4a {
             left: 60%;
         }
         /* When we focus on the particular button, 
         the animation stops to that particular image 
         to which the button is associated. */
-        .slide-btn-1:focus~.slideshow-wrapper {
+        .slide-btn-1a:focus~.slideshow-wrapper {
             animation: none;
             left: 0;
         }
-        .slide-btn-2:focus~.slideshow-wrapper {
+        .slide-btn-2a:focus~.slideshow-wrapper {
             animation: none;
             left: -100%;
         }
-        .slide-btn-3:focus~.slideshow-wrapper {
+        .slide-btn-3a:focus~.slideshow-wrapper {
             animation: none;
             left: -200%;
         }
-        .slide-btn-4:focus~.slideshow-wrapper {
+        .slide-btn-4a:focus~.slideshow-wrapper {
             animation: none;
             left: -300%;
         }
@@ -403,10 +403,10 @@
             </div>
             <div class="slideshow">
                 <!-- carousel control buttons -->
-                <button class="slide-btn slide-btn-1"></button>
-                <button class="slide-btn slide-btn-2"></button>
-                <button class="slide-btn slide-btn-3"></button>
-                <button class="slide-btn slide-btn-4"></button>
+                <button class="slide-btn slide-btn-1a"></button>
+                <button class="slide-btn slide-btn-2a"></button>
+                <button class="slide-btn slide-btn-3a"></button>
+                <button class="slide-btn slide-btn-4a"></button>
                 <!-- carousel wrapper which contains all images -->
                 <div class="slideshow-wrapper">
                     <div class="slide">
