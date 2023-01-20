@@ -161,7 +161,7 @@
         }
         /* ----- end of carousel control buttons stylings ----- */
     </style>
-    <title>Geeks For Geeks</title>
+    <title></title>
 </head>
 <body>
     <div class="container">
@@ -172,7 +172,7 @@
                 <h1 class="carousel-heading">
                     GeeksforGeeks
                 </h1>
-                <h3>A computer science portal for geeks</h3>
+                <h3></h3>
             </div>
             <div class="slideshow">
                 <!-- carousel control buttons -->
