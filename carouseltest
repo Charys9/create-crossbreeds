@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+<table role="presentation" width="100%" class="full-wrap" cellpadding="0" cellspacing="0" align="center" border="0" style="table-layout: fixed; margin: 0 auto;" bgcolor="#ffffff">
+	<tr>
+		<td align="center">
     <style>
         /* default stylings */
         * {
@@ -204,58 +208,11 @@
             </div>
         </div>
     </div>
-    <!-- 20px spacer start -->
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tr>
-					<td height="20" style="height:20px; font-size:1px; line-height:1px;">&nbsp;</td>
-				</tr>
-			</table>
-			<!-- 20px spacer end -->
-  
-    </style>
-    <title></title>
-</head>
-<body>
-    <div class="container">
-        <h1 class="main-heading">Responsive Carousel using CSS</h1>
-        <div class="content">
-            <!-- The content which is placed at the center of the carousel -->
-            <div class="carousel-content">
-                <h1 class="carousel-heading">
-                    
-                </h1>
-                <h3></h3>
-            </div>
-            <div class="slideshow">
-                <!-- carousel control buttons -->
-                <button class="slide-btn slide-btn-1"></button>
-                <button class="slide-btn slide-btn-2"></button>
-                <button class="slide-btn slide-btn-3"></button>
-                <button class="slide-btn slide-btn-4"></button>
-                <!-- carousel wrapper which contains all images -->
-                <div class="slideshow-wrapper">
-                    <div class="slide">
-                        <img class="slide-img"
-                            src=
-"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/WhatsApp%20Image%202023-01-20%20at%2009.31.41.jpeg">
-                    </div>
-                    <div class="slide">
-                        <img class="slide-img"
-                            src=
-"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/WhatsApp%20Image%202023-01-20%20at%2009.31.41%20%281%29.jpeg">
-                    </div>
-                    <div class="slide">
-                        <img class="slide-img" src=
-"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/WhatsApp%20Image%202023-01-20%20at%2009.31.41.jpeg">
-                    </div>
-                    <div class="slide">
-                        <img class="slide-img" src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20210818141837/image4-300x168.png">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    
+    
+   		</td>
+	</tr>
+</table>
     
 </body>
 </html>
