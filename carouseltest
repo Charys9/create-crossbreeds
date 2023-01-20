@@ -11,7 +11,7 @@
   
         /* provides background color to body */
         body {
-            background-color: rgb(255, 235, 235);
+            background-color: #ffffff;
         }
   
         /* ----- container stylings: 
