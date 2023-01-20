@@ -28,7 +28,7 @@
             align-items: center;
             margin: auto;
             width: 400px;
-            height: 317px;
+            height: 215px;
         }
         /* ----- end of container stylings ----- */
   
@@ -189,20 +189,20 @@
                     <div class="slide">
                         <img class="slide-img"
                             src=
-"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/Roo%20head.jpeg">
+"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/WhatsApp%20Image%202023-01-20%20at%2009.31.41.jpeg">
                     </div>
                     <div class="slide">
                         <img class="slide-img"
                             src=
-"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/Polo%20head.jpeg">
+"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/WhatsApp%20Image%202023-01-20%20at%2009.31.41%20%281%29.jpeg">
                     </div>
                     <div class="slide">
                         <img class="slide-img" src=
-"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/Toby%20head.jpeg">
+"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/WhatsApp%20Image%202023-01-20%20at%2009.31.41.jpeg">
                     </div>
                     <div class="slide">
                         <img class="slide-img" src=
-"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/Goose%20head.jpeg">
+"https://media.geeksforgeeks.org/wp-content/uploads/20210818141837/image4-300x168.png">
                     </div>
                 </div>
             </div>
@@ -213,6 +213,13 @@
    		</td>
 	</tr>
 	
+	<!-- 50px spacer start -->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td height="10" style="height:10px; font-size:1px; line-height:1px;">&nbsp;</td>
+				</tr>
+			</table>
+			<!-- 50px spacer end -->
 	
 <tr>
     <style>
@@ -238,7 +245,7 @@
             align-items: center;
             margin: auto;
             width: 400px;
-            height: 215px;
+            height: 317px;
         }
         /* ----- end of container stylings ----- */
   
@@ -404,15 +411,15 @@
                     <div class="slide">
                         <img class="slide-img"
                             src=
-"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/Goose%20body.jpeg">
+"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/WhatsApp%20Image%202023-01-20%20at%2009.31.41%20%281%29.jpeg">
                     </div>
                     <div class="slide">
                         <img class="slide-img" src=
-"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/Roo%20body.jpeg">
+"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/WhatsApp%20Image%202023-01-20%20at%2009.31.41.jpeg">
                     </div>
                     <div class="slide">
                         <img class="slide-img" src=
-"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/Toby%20body.jpeg">
+"https://media.geeksforgeeks.org/wp-content/uploads/20210818141837/image4-300x168.png">
                     </div>
                 </div>
             </div>
