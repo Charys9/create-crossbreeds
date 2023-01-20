@@ -213,13 +213,6 @@
    		</td>
 	</tr>
 	
-	<!-- 50px spacer start -->
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tr>
-					<td height="10" style="height:10px; font-size:1px; line-height:1px;">&nbsp;</td>
-				</tr>
-			</table>
-			<!-- 50px spacer end -->
 	
 <tr>
     <style>
