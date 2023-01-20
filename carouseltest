@@ -243,7 +243,7 @@
             align-items: center;
             margin: auto;
             width: 400px;
-            height: 215px;
+            height: 317px;
         }
         /* ----- end of container stylings ----- */
   
@@ -404,7 +404,7 @@
                     <div class="slide">
                         <img class="slide-img"
                             src=
-"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/WhatsApp%20Image%202023-01-20%20at%2009.31.41.jpeg">
+"https://tails-email-assets.s3.amazonaws.com/v2/2023/create-crossbreeds/Polo%20body.jpeg">
                     </div>
                     <div class="slide">
                         <img class="slide-img"
