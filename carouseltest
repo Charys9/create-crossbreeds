@@ -169,7 +169,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="main-heading">Responsive Carousel using CSS</h1>
+        <h1 class="main-heading"> </h1>
         <div class="content">
             <!-- The content which is placed at the center of the carousel -->
             <div class="carousel-content">
@@ -215,7 +215,7 @@
 	<!-- 50px spacer start -->
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tr>
-					<td height="200" style="height:200px; font-size:1px; line-height:1px;">&nbsp;</td>
+					<td height="50" style="height:50px; font-size:1px; line-height:1px;">&nbsp;</td>
 				</tr>
 			</table>
 			<!-- 50px spacer end -->
@@ -384,7 +384,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="main-heading">Responsive Carousel using CSS</h1>
+        <h1 class="main-heading"> </h1>
         <div class="content">
             <!-- The content which is placed at the center of the carousel -->
             <div class="carousel-content">
