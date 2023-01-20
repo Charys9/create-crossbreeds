@@ -51,7 +51,7 @@
             transform: translate(-50%, -50%); 
             text-align: center;
             z-index: 50;
-        }
+        } 
         .carousel-heading {
             font-size: 3rem;
             color: #308d46;
